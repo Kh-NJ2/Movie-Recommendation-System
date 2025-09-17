@@ -4,7 +4,7 @@ This project uses **collaborative filtering** to suggest movies to a user based 
 
 It implements two popular collaborative filtering techniques:
 
-- **User-Based Collaborative Filtering:** "Users who are similar to you also liked these movies."
+- **User-Based Collaborative Filtering:** "Users who are similar to you also liked these movies." 
 - **Item-Based Collaborative Filtering:** "You liked this movie, so you'll probably like these similar ones too."
 
 The script also evaluates the quality of its recommendations using the **Precision@K** metric.
